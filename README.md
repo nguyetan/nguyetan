@@ -1,10 +1,15 @@
-<h2 align="left">Hello! My name is An.</h2>
+<p align="center"><img width="100%" src="./image/hello.png" /></p>
+
+<h1 align="left">Hello! My name is An.</h1>
 
 ###
 
-<p align="left">Welcome to my page. <br><br>I am a senior university student majoring in information security.  Although I'm new to the field, I always put forth my best effort to improve security solutions.  I'm eager to learn and work with experts to expand my knowledge and enhance my skills. Besides, I am passionate about exploring other majors: AI/ML, IoT  and app development,...</p>
+<p align="left">I am a senior university student majoring in information security.  Although I'm new to the field, I always put forth my best effort to improve security solutions.  I'm eager to learn and work with experts to expand my knowledge and enhance my skills. Besides, I am passionate about exploring other majors: AI/ML, IoT  and app development,...</p>
 
 ### How to reach me
+
+- I'm living in Ho Chi Minh City
+- I am pleased to connect with individuals who have viewed my github. If you need interaction and cooperation for any project, please contact me.
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -63,6 +68,14 @@
 
 ###
 
+### My little snake ate the repositories I provided to gain experience
+
 <img src="https://raw.githubusercontent.com/nguyetan/nguyetan/output/snake.svg" alt="Snake animation" />
 
 ###
+
+### Top Repositories
+
+<a href="https://github.com/nguyetan/irrigation-system.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyetan&repo=irrigation-system&theme=buefy" />
+</a>
