@@ -67,21 +67,28 @@
 ### My GitHub Stats
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nguyetan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&order=1" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyetan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=highcontrast&hide_border=false&order=2" height="160" alt="languages graph"  />
+
+  <img  alt="nguyetan's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/nguyetan?cardType=octocat&theme=highcontrast&preferLogin=true" />  
+
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyetan&locale=en&hide_title=false&layout=compact&card_width=100&langs_count=6&theme=highcontrast&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=nguyetan&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="160" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=nguyetan&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
 ###
 
 ### My little snake ate the repositories I provided to gain experience
-
-<img src="https://raw.githubusercontent.com/nguyetan/nguyetan/output/snake.svg" alt="Snake animation" />
+<!-- Repo info cards - https://github.com/Platane/snk -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
 ###
 
