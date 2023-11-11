@@ -1,4 +1,8 @@
-<p align="center"><img width="100%" src="./image/hello.png" /></p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Agbalumo&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+page!;" />
+</p>
+
+<p align="center"><img width="100%" src="./image/pic.png" /></p>
 
 <h1 align="left">Hello! My name is An.</h1>
 
