@@ -2,15 +2,19 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Agbalumo&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+page!;" />
 </p>
 
-<p align="center"><img width="100%" src="./image/pic.png" /></p>
+<p align="center">
+  <img width="100%" src="./image/name.png" alt="Name Image">
+  <br>
+  <img width="100%" src="./image/pic.png" alt="Picture Image">
+</p>
 
-<h1 align="left">Hello! My name is An.</h1>
+<h1 align="left">You can call me Ann.</h1>
 
 ###
 
 <p align="left">I am a senior university student majoring in information security.  Although I'm new to the field, I always put forth my best effort to improve security solutions.  I'm eager to learn and work with experts to expand my knowledge and enhance my skills. Besides, I am passionate about exploring other majors: AI/ML, IoT  and app development,...</p>
 
-### How to reach me
+# How to reach me
 
 - I'm living in Ho Chi Minh City
 - I am pleased to connect with individuals who have viewed my github. If you need interaction and cooperation for any project, please contact me.
