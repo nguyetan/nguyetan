@@ -29,7 +29,7 @@
   </a>
 </div>
 
-### Skills
+# Skills
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -64,25 +64,29 @@
 
 ###
 
-### My GitHub Stats
+<details open> 
+  <summary><h1> My GitHub Stats</h1></summary>
 
-<div align="left">
-
+  <div align="left">
+  <!-- Repo info cards - https://github.com/brunobritodev/awesome-github-stats -->
   <img  alt="nguyetan's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/nguyetan?cardType=octocat&theme=highcontrast&preferLogin=true" />  
 
-  
+  <!-- Repo info cards - https://github.com/maurodesouza/profile-readme-generator -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyetan&locale=en&hide_title=false&layout=compact&card_width=100&langs_count=6&theme=highcontrast&hide_border=false&order=2" height="200" alt="languages graph"  />
-</div>
+  </div>
 
 ###
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=nguyetan&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
-</div>
+  <!-- Repo info cards -https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=nguyetan&theme=github-dark&border_radius=5&card_width=449" alt="GitHub Streak" />
+  </a>
+
+</details>
 
 ###
 
-### My little snake ate the repositories I provided to gain experience
+## My little snake ate the repositories I provided to gain experience
 <!-- Repo info cards - https://github.com/Platane/snk -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
