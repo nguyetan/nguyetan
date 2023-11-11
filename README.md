@@ -85,8 +85,13 @@
 
 ###
 
-### Top Repositories
+<details open> 
+  <summary><h2> My Top Open Source Projects</h2></summary>
+  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+  <p align="left">
+    <a href="https://github.com/nguyetan/irrigation-system.git">
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyetan&repo=irrigation-system&theme=radical" />
+    </a> 
+  </p>
+</details>
 
-<a href="https://github.com/nguyetan/irrigation-system.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyetan&repo=irrigation-system&theme=buefy" />
-</a>
