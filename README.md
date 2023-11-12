@@ -154,7 +154,7 @@
   <div align="left">
   <!-- Repo info cards - https://github.com/brunobritodev/awesome-github-stats -->
   <img  alt="nguyetan's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/nguyetan?cardType=octocat&theme=highcontrast&preferLogin=true" />  
-
+  <img width="12" />
   <!-- Repo info cards - https://github.com/maurodesouza/profile-readme-generator -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyetan&locale=en&hide_title=false&layout=compact&card_width=100&langs_count=6&theme=highcontrast&hide_border=false&order=2" height="200" alt="languages graph"  />
   </div>
@@ -194,10 +194,11 @@
 
 <details open> 
   <summary><h1>Projects with my contributions</h1></summary>
-  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/nguyetan/irrigation-system.git">
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyetan&repo=irrigation-system&theme=radical" />
-    </a> 
+    <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+    <img align="center" href="https://github.com/nguyetan/banking-system-with-thread-master" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyetan&repo=banking-system-with-thread-master&theme=highcontrast" />
+    <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+    <img width="12" />
+    <img align="center" href="https://github.com/nguyetan/ForestType-master" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyetan&repo=ForestType-master&theme=dark" />
   </p>
 </details>
