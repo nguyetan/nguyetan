@@ -141,7 +141,7 @@
       <!-- Repo info cards - https://github.com/brunobritodev/awesome-github-stats -->
       <img  alt="nguyetan's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/nguyetan?cardType=octocat&theme=highcontrast&preferLogin=true" width="50%"/>  
       <!-- Repo info cards - https://github.com/maurodesouza/profile-readme-generator -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyetan&locale=en&hide_title=false&layout=compact&card_width=70&langs_count=6&theme=highcontrast&hide_border=false&order=2" height="185" alt="languages graph"  />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyetan&locale=en&hide_title=false&layout=compact&card_width=70&langs_count=6&theme=highcontrast&hide_border=false&order=2" height="187" alt="languages graph"  />
   </div>
 
 ###
