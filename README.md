@@ -17,13 +17,17 @@
 # How to reach me
 
 - I'm based in Ho Chi Minh City
-- You can watch my portfolio in here: <a href="">**My Portfolio**</a>
+- You may explore my portfolio by visiting the following link: <a href="">**My Portfolio**</a>
 - I am pleased to connect with individuals who have viewed my github. If you need interaction and cooperation for any project, please contact me.
 
 <div align="left">
+  <!-- Repo info cards - https://github.com/badges/shields -->
+  
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img href="nguyetan01.dev@gmail.com" target="_blank" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=009900&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img href="https://discord.gg/GnDXNJMD" target="_blank" src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=6600FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img href="nguyetan01.dev@gmail.com" target="_blank" 
+    src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=009900&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img href="https://discord.gg/GnDXNJMD" target="_blank" 
+    src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=6600FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
 </div>
 
 ###
