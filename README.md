@@ -17,6 +17,7 @@
 # How to reach me
 
 - I'm based in Ho Chi Minh City
+- You can watch my portfolio in here: <p href = "https://github.com/nguyetan">**My Portfolio**</p>
 - I am pleased to connect with individuals who have viewed my github. If you need interaction and cooperation for any project, please contact me.
 
 <div align="left">
@@ -73,6 +74,14 @@
       </p>
 
 
+  <h3>Networking and Security</h3>
+  <p align="center">
+    <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" alt="Cisco"/> 
+    <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/> 
+  </p>
+  
+
   <h3>Mobile App Development</h3>
       <p align="center">
           <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
@@ -91,7 +100,7 @@
 
 
 
-  <h3>IoT</h3>
+  <h3>Embedded system and IoT</h3>
       <p align="center">
           <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
           <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/>
@@ -139,7 +148,7 @@
   <summary><h1> My GitHub Stats</h1></summary>
     <div align="center">
       <!-- Repo info cards - https://github.com/brunobritodev/awesome-github-stats -->
-      <img  alt="nguyetan's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/nguyetan?cardType=octocat&theme=highcontrast&preferLogin=true" width="50%"/>  
+      <img  alt="nguyetan's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/nguyetan?cardType=octocat&theme=highcontrast&preferLogin=true" height="188"/>  
       <!-- Repo info cards - https://github.com/maurodesouza/profile-readme-generator -->
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyetan&locale=en&hide_title=false&layout=compact&card_width=70&langs_count=6&theme=highcontrast&hide_border=false&order=2" height="188" alt="languages graph"  />
   </div>
