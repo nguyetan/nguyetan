@@ -184,7 +184,7 @@
   <summary><h1>My Projects</h1></summary>
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <p align="center">
-    <a href="https://github.com/nguyetan/irrigation-system.git">
+    <a href="https://github.com/nguyetan/irrigation-system">
       <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyetan&repo=irrigation-system&theme=radical" />
     </a> 
   </p>
