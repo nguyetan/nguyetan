@@ -196,11 +196,13 @@
   <summary><h1>Projects with my contributions</h1></summary>
   <p align="center">
     <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-    <img align="center" href="https://github.com/nguyetan/banking-system-with-thread-master" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyetan&repo=banking-system-with-thread-master&theme=highcontrast" />
-    <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+    <a  href="https://github.com/nguyetan/banking-system-with-thread-master">
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyetan&repo=banking-system-with-thread-master&theme=highcontrast" />
+    </a>
     <img width="12" />
+    <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
     <a href="https://github.com/nguyetan/ForestType-master">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyetan&repo=ForestType-master&theme=dark" />
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyetan&repo=ForestType-master&theme=dark" />
     </a>
   </p>
 </details>
