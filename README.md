@@ -17,7 +17,7 @@
 # How to reach me
 
 - I'm based in Ho Chi Minh City
-- You can watch my portfolio in here: <a href="https://github.com/nguyetan">**My Portfolio**</a>
+- You can watch my portfolio in here: <a href="">**My Portfolio**</a>
 - I am pleased to connect with individuals who have viewed my github. If you need interaction and cooperation for any project, please contact me.
 
 <div align="left">
