@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img href="nguyetan01.dev@gmail.com" target="_blank" 
     src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=009900&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img href="https://discord.gg/GnDXNJMD" target="_blank" 
+  <img href="https://discord.gg/s7Awwk9s" target="_blank" 
     src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=6600FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
 </div>
 
