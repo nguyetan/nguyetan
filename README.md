@@ -185,12 +185,11 @@
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <p align="center">
     <a href="https://github.com/nguyetan/irrigation-system">
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyetan&repo=irrigation-system&theme=radical" />
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyetan&repo=irrigation-system&theme=radical"/>
     </a> 
     <img width="12" />
-    <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
     <a href="https://github.com/nguyetan/python-rescue-station-project">
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyetan&repo=python-rescue-station-project&theme=dark" />
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyetan&repo=python-rescue-station-project&theme=dark" height="140"/>
     </a>
   </p>
 </details>
@@ -207,7 +206,7 @@
     <img width="12" />
     <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
     <a href="https://github.com/nguyetan/ForestType-master">
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyetan&repo=ForestType-master&theme=dark" />
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyetan&repo=ForestType-master&theme=dark" height="150" />
     </a>
   </p>
 </details>
