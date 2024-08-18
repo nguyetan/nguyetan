@@ -187,6 +187,11 @@
     <a href="https://github.com/nguyetan/irrigation-system">
       <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyetan&repo=irrigation-system&theme=radical" />
     </a> 
+    <img width="12" />
+    <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+    <a href="https://github.com/nguyetan/python-rescue-station-project">
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyetan&repo=python-rescue-station-project&theme=dark" />
+    </a>
   </p>
 </details>
 
@@ -196,8 +201,8 @@
   <summary><h1>Projects with my contributions</h1></summary>
   <p align="center">
     <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-    <a  href="https://github.com/nguyetan/python-rescue-station-project">
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyetan&repo=python-rescue-station-project&theme=highcontrast" />
+    <a  href="https://github.com/nguyetan/rescue-station-project">
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyetan&repo=rescue-station-project&theme=highcontrast" />
     </a>
     <img width="12" />
     <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
