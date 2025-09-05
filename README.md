@@ -17,7 +17,7 @@
 <div align="left">
   <!-- Repo info cards - https://github.com/badges/shields -->
   
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   <img href="https://www.facebook.com/nguyet.an.442553" target="_blank" 
 </div>
 
