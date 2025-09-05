@@ -60,21 +60,11 @@
       </p>
 
 
-  <h3>IDEs/Editors, Platforms and Tools</h3>
-      <p>
-        <p>IDEs/Editors
-          <img width="10" />
-          <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
-          <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
-          <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio"/>
-          <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
-        </p><br>
-        <p>Tools
-          <img width="10" />
+  <h3>Tools</h3>
+        <p>
           <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
           <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/>
         </p>
-      </p>
 </details>
 
 ###
@@ -119,8 +109,8 @@
       <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyetan&repo=irrigation-system&theme=radical"/>
     </a> 
     <img width="12" />
-    <a href="https://github.com/nguyetan/python-rescue-station-project">
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyetan&repo=python-rescue-station-project&theme=dark" height="140"/>
+    <a href="https://github.com/nguyetan/python-rescue-station">
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyetan&repo=python-rescue-station&theme=dark" height="140"/>
     </a>
   </p>
 </details>
