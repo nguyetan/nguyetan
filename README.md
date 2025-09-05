@@ -108,9 +108,9 @@
     <a href="https://github.com/nguyetan/irrigation-system">
       <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyetan&repo=irrigation-system&theme=radical"/>
     </a> 
-    <img width="12" />
+    <img/>
     <a href="https://github.com/nguyetan/python-rescue-station">
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyetan&repo=python-rescue-station&theme=dark" height="150"/>
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyetan&repo=python-rescue-station&theme=dark"/>
     </a>
   </p>
 </details>
