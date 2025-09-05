@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is Nguyet An, I graduated in Information Technology. I am exploring my potential through various job positions. I am interested in several topics, including social network analysis, audio processing, malware.</p>
+<p align="left">My name is Nguyet An, I graduated in Information Technology. I am exploring my potential through various job positions. I am interested in several topics, including social network analysis, audio processing and malware.</p>
 
 # How to reach me
 
@@ -61,10 +61,10 @@
 
 
   <h3>Tools</h3>
-        <p>
+      <p align="center">
           <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
           <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/>
-        </p>
+      </p>
 </details>
 
 ###
@@ -106,11 +106,11 @@
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <p align="center">
     <a href="https://github.com/nguyetan/irrigation-system">
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyetan&repo=irrigation-system&theme=radical"/>
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyetan&repo=irrigation-system&theme=radical" height="150"/>
     </a> 
     <img width="12" />
     <a href="https://github.com/nguyetan/python-rescue-station">
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyetan&repo=python-rescue-station&theme=dark" height="140"/>
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyetan&repo=python-rescue-station&theme=dark" height="150"/>
     </a>
   </p>
 </details>
@@ -122,7 +122,7 @@
   <p align="center">
     <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
     <a  href="https://github.com/nguyetan/rescue-station">
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyetan&repo=rescue-station&theme=highcontrast" />
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nguyetan&repo=rescue-station&theme=highcontrast" height="150" />
     </a>
     <img width="12" />
     <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
